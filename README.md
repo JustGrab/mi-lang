@@ -22,7 +22,7 @@ end
 ```
 More examples can be found in /examples.
 
-# Lexaical Analysis
+# Lexical Analysis
 Breaks down the provided inputted file into tokens. Tokens consists of their name, token type, line number, and position number. If there is an unrecognized symbol in file, a lexical error will be thrown and analysis will end. These tokens will then be used in the parser.
 
 # Parser
